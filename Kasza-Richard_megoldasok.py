@@ -1,5 +1,5 @@
  # fajl megnyitása
-    forrasfajl = open('adatok/autok_listaja.csv')    
+    forrasfajl = open('konyvtar.txt')    
     
     # fájl tartalmának beolvasása
     # egy sor beolvasása:
